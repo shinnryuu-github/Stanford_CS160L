@@ -1,3 +1,0 @@
-C:/Users/ryuu/Desktop/codes/cs106l_sp23_main/AP1400-2-HW1-main/CMakeFiles/main.dir
-C:/Users/ryuu/Desktop/codes/cs106l_sp23_main/AP1400-2-HW1-main/CMakeFiles/edit_cache.dir
-C:/Users/ryuu/Desktop/codes/cs106l_sp23_main/AP1400-2-HW1-main/CMakeFiles/rebuild_cache.dir
