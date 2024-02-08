@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/ryuu/Desktop/codes/cs106l_sp23_main/practice/Car/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\car.dir\\main.cpp.obj -c C:\\Users\\ryuu\\Desktop\\codes\\cs106l_sp23_main\\practice\\Car\\main.cpp",
+  "file": "C:/Users/ryuu/Desktop/codes/cs106l_sp23_main/practice/Car/main.cpp",
+  "output": "CMakeFiles/car.dir/main.cpp.obj"
+}
+]
